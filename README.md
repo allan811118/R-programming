@@ -11,6 +11,7 @@
 - 40% 小組報告
 
 ### 課程大綱
+
 (1)安裝R與RStudio
 (2)安裝R與RStudio
 (3)安裝R與RStudio
