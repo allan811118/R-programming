@@ -14,6 +14,6 @@
 
 (1)安裝R與RStudio
 
-(2)安裝R與RStudio
+(2)基本資料型態
 
 (3)安裝R與RStudio
