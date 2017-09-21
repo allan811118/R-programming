@@ -12,4 +12,4 @@
 
 ### 課程大綱
 
-(1)[資料探勘-R實作教學網頁](http://rpubs.com/allan811118/R_programming_00)
+[資料探勘-R實作教學網頁](http://rpubs.com/allan811118/R_programming_00)
